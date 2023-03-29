@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\OptimizacionEjemplo\bin\Debug\OptimizacionEjemplo.exe.config
+C:\Users\admin\Desktop\OptimizacionEjemplo\bin\Debug\OptimizacionEjemplo.exe
+C:\Users\admin\Desktop\OptimizacionEjemplo\bin\Debug\OptimizacionEjemplo.pdb
+C:\Users\admin\Desktop\OptimizacionEjemplo\obj\Debug\OptimizacionEjemplo.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\OptimizacionEjemplo\obj\Debug\OptimizacionEjemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\OptimizacionEjemplo\obj\Debug\OptimizacionEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\OptimizacionEjemplo\obj\Debug\OptimizacionEjemplo.exe
+C:\Users\admin\Desktop\OptimizacionEjemplo\obj\Debug\OptimizacionEjemplo.pdb
